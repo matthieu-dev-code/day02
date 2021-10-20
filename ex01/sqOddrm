@@ -1,0 +1,4 @@
+
+touch test_{0..20}
+
+ls -d *[?2?4?6?8?0] | xargs rm
